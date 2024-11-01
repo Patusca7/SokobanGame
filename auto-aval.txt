@@ -1,0 +1,23 @@
+Requisitos Totalmente Compridos:
+-Requisitos Essenciais:
+    -Req. 1 - Classes a definir (1,5 valores)
+    -Req. 2 - Testes a definir (2,0 valores)
+    -Req. 3 - Apresentação dos Movimentos(2,0 valores)
+    -Req. 4 - Gravação da pontuação para ficheiro (1,0 valores)
+    -Req. 5 - Detecção de vitória e limite de movimentos (1,5 valores)
+    -Req. 6 - Imagens (2,0 valores)
+-Requisitos Não Essenciais:
+    -Req. 7 - Escrita de percursos (1,0 valores)
+    -Req. 8 - Apresentação de Pontuação (1,0 valores)
+    -Req. 9 - Leitura de Níveis (2,0 valores)
+    -Req. 10 - Cronómetro (1,0 valores)
+    -Req. 11 - Undo e Redo (2,0 valores)
+-Extras:
+    -Leitura de percursos animada ou posição final
+    -Mudança do ambiente do jogo
+
+-Clasificação Total Possivel: 20 valores
+-AutoAvaliação: 19 valores
+
+Tempo gasto em aula: 3h
+Tempo gasto fora de aula: 35h
